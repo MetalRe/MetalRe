@@ -1,4 +1,26 @@
 ### Hi there Mate Bate👋
+Sobre mim
+
+Eu sou um desenvolvedor de software apaixonado por tecnologia e programação. Sempre buscando aprender coisas novas e desafios interessantes. Meus principais interesses incluem desenvolvimento web, front end e back end e inteligência artificial.
+Projetos recentes
+
+    Projeto 1: Calcula a quantidade de calorias que uma pessoa deve consumir por dia com base em alguns parâmetros.
+    Projeto 2: O jogo 2D de mundo aberto é um jogo que permite que os jogadores explorem um ambiente vasto e interativo em 2 dimensões. 
+    Projeto 3: O jogo da velha é um jogo de tabuleiro simples, onde dois jogadores alternam turnos para marcar seus símbolos em um tabuleiro 3x3.
+
+Hobbies
+
+    🎸 Tocar guitarra e violão
+    📖 Ler livros sobre tecnologia e ficção científica
+    🎮 Jogar videogames
+
+Contato
+
+Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem por meio das minhas redes sociais ou por e-mail.
+
+    📧 E-mail: rennerox46@gmail.com
+    🐦 Twitter: @renneb777
+    📷 Instagram: @renneb777
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
