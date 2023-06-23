@@ -1,8 +1,7 @@
 ### Hi there Mate Bate👋
 Sobre mim
 
-Eu sou um desenvolvedor de software apaixonado por tecnologia e programação. Sempre buscando aprender coisas novas e desafios interessantes. Meus principais interesses incluem desenvolvimento web, front end e back end e inteligência artificial.
-Projetos recentes
+I am a technology enthusiast and software developer with a strong passion for programming. I am constantly seeking to expand my knowledge and take on intriguing challenges. My primary interests lie in web development, both front-end and back-end, as well as artificial intelligence. I have been engaged in recent projects where I have been able to apply and further enhance my skills in these areas.
 
     Projeto 1: Calcula a quantidade de calorias que uma pessoa deve consumir por dia com base em alguns parâmetros.
     Projeto 2: O jogo 2D de mundo aberto é um jogo que permite que os jogadores explorem um ambiente vasto e interativo em 2 dimensões. 
@@ -10,9 +9,9 @@ Projetos recentes
 
 Hobbies
 
-    🎸 Tocar guitarra e violão
-    📖 Ler livros sobre tecnologia e ficção científica
-    🎮 Jogar videogames
+    🎸 Dedico tempo à prática e aprimoramento das habilidades musicais, tocando guitarra e violão, expressando criatividade e emoções por meio da música. Além disso, minha paixão por tecnologia e ficção             científica me leva a explorar livros que abordam esses temas, expandindo meu conhecimento e perspectiva. 
+    📖 Para relaxar e divertir, mergulho em mundos virtuais por meio de videogames, desfrutando de narrativas envolventes, desafios estratégicos e conexões sociais com outros jogadores. 
+    🎮 Apreciação pela arte, gráficos avançados e trilhas sonoras complementam essas experiências interativas.
 
 Contato
 
