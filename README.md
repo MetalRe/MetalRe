@@ -1,28 +1,27 @@
 ### Hi there Mate Bate👋
-Sobre mim
+About me
 
 I am a technology enthusiast and software developer with a strong passion for programming. I am constantly seeking to expand my knowledge and take on intriguing challenges. My primary interests lie in web development, both front-end and back-end, as well as artificial intelligence. I have been engaged in recent projects where I have been able to apply and further enhance my skills in these areas.
 
-    Projeto 1: Calcula a quantidade de calorias que uma pessoa deve consumir por dia com base em alguns parâmetros.
-    Projeto 2: O jogo 2D de mundo aberto é um jogo que permite que os jogadores explorem um ambiente vasto e interativo em 2 dimensões. 
-    Projeto 3: O jogo da velha é um jogo de tabuleiro simples, onde dois jogadores alternam turnos para marcar seus símbolos em um tabuleiro 3x3.
+   Project 1: Calculates the amount of calories a person should consume per day based on certain parameters.
+   Project 2: The open-world 2D game is a game that allows players to explore a vast and interactive environment in 2 dimensions.
+   Project 3: Tic-tac-toe is a simple board game where two players take turns to mark their symbols on a 3x3 grid.
 
 Hobbies
 
-    🎸 Dedico tempo à prática e aprimoramento das habilidades musicais, tocando guitarra e violão, expressando criatividade e emoções por meio da música. Além disso, minha paixão por tecnologia e ficção             científica me leva a explorar livros que abordam esses temas, expandindo meu conhecimento e perspectiva. 
-    📖 Para relaxar e divertir, mergulho em mundos virtuais por meio de videogames, desfrutando de narrativas envolventes, desafios estratégicos e conexões sociais com outros jogadores. 
-    🎮 Apreciação pela arte, gráficos avançados e trilhas sonoras complementam essas experiências interativas.
+    🎸 I dedicate time to practicing and improving my musical skills by playing the guitar and the acoustic guitar, expressing creativity and emotions through music. Additionally, my passion for technology       and science fiction leads me to explore books that delve into these subjects, expanding my knowledge and perspective.
+    📖 To relax and have fun, I immerse myself in virtual worlds through video games, enjoying engaging narratives, strategic challenges, and social connections with other players.
+    🎮 Appreciation for art, advanced graphics, and soundtracks enhance these interactive experiences.
+Contact:
 
-Contato
-
-Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem por meio das minhas redes sociais ou por e-mail.
+If you'd like to get in touch with me, feel free to send me a message through my social media channels or via email.
 
     📧 E-mail: rennerox46@gmail.com
     🐦 Twitter: @renneb777
     📷 Instagram: @renneb777
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renneb777/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
 
 ![Renne GitHub stats](https://github-readme-stats.vercel.app/api?username=MetalRe&show_icons=true&theme=radical)
